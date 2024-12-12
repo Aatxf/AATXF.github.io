@@ -62,7 +62,7 @@ main .mainCard .header {
 main .mainCard .header .logo {
   width: 15rem;
   height: 15rem;
-  border-radius: 10%;
+  border-radius: 50%;
   background: #ff0000;
   box-shadow: 20px 20px 60px #ffffff, -20px -20px 60px #ffffff;
   display: grid;
